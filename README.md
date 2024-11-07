@@ -6,7 +6,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1guccii&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qguxxi&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
