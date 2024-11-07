@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**qguxxi/qguxxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1guccii&theme=dark&hide_border=true" /><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1guccii&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### Skills
+
+<p align="center">
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a><a 
+                                                                                                                                                                                                                                       href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                            href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a 
+                                                                         
